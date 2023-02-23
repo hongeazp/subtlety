@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Improve Coral Edge TPU guide (#8160)
