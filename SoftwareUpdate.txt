@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Auto-format by https://ultralytics.com/actions
