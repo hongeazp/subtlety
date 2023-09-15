@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Retry once for Docker CI failures (#8164)
