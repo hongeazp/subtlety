@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Mkdocs annotations fixes (#7600)
