@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Clean up unused imgsz (#7771)
