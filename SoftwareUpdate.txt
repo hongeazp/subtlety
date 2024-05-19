@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
