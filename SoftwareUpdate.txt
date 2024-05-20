@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
